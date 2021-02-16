@@ -13,7 +13,7 @@ public class TestMain {
     }
 
     public static void print(){
-        String str = "Hi from master branch!";
+        String str = "Hey from master branch!";
         System.out.println(str);
     }
 }
