@@ -7,6 +7,7 @@ public class TestMain {
         System.out.println("I love cats more than dogs");
         System.out.println("two");
         System.out.println("Git commit with add");
-        System.out.println("add from master");
+        System.out.println("add from master with merge conflict");
     }
 }
+
