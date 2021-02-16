@@ -8,6 +8,14 @@ public class TestMain {
         System.out.println("two");
         System.out.println("Git commit with add");
         System.out.println("add from master with merge conflict");
+
+        print();
     }
+
+    public static void print(){
+        String str = "Hi from new branch";
+        System.out.println(str);
+    }
+
 }
 
